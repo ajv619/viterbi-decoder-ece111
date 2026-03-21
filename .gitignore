@@ -1,0 +1,19 @@
+# Quartus / ModelSim build artifacts
+db/
+incremental_db/
+output_files/
+simulation/
+work/
+transcript
+*.wlf
+*.qws
+*.rpt
+*.summary
+*.done
+*.qpf.bak
+# LaTeX aux
+*.aux
+*.log
+*.out
+*.synctex.gz
+.DS_Store
